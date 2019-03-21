@@ -21,8 +21,7 @@ public class FindCharacter {
 			System.out.println("The file you gave me has " + counter + " of " + args[1]);
 
 		} catch (IOException e) {
-			e.printStackTrace();
+			System.out.println("Error: File not found!");
 		}
-
 	}
 }
