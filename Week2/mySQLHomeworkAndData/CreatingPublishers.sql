@@ -1,0 +1,1 @@
+INSERT INTO tbl_publisher (publisherId, publisherName, publisherAddress, publisherPhone) VALUES (1, "Scholastic", "557 Broadway, New York, NY 10012", "1 (866) 233-1692"), (2, "baen books", "600 Broadway, New York, NY 10012", "1 (866) 233-1693"), (3, "Penguin Random House", "601 Broadway, New York, NY 10012", "1 (866) 233-4567")

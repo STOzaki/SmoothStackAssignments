@@ -1,0 +1,1 @@
+INSERT INTO tbl_author (authorId, authorName) VALUES (1, "Lois McMaster Bujold"), (2, "Patricia Wrede"), (3, "Robin McKinley"), (4, "Robert Jordan"), (5, "C. S. Lewis"), (6, "J. R. R. Tolkien"), (7, "J. K. Rowling"), (8, "George R. R. Martin"), (9, "Stephen King"), (10, "Charles Williams");

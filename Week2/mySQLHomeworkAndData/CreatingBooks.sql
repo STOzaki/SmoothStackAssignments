@@ -1,0 +1,1 @@
+INSERT INTO tbl_book (bookId, title, authId, pubId) VALUES (1, "The Thirteenth Child", 2, 1), (2, "A Civil Campaign", 1, 2), (3, "The Eye of the World", 4, 3), (4, "The Blue Sword", 3, 1), (5, "The Lion, The Witch, and The Wardrobe", 5, 1);
